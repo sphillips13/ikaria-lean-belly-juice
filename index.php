@@ -17,6 +17,16 @@ https://c67a882sy-t3yle9e72dd1ep4f.hop.clickbank.net
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5814556169214942"
      crossorigin="anonymous"></script>
 
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-233912854-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-233912854-2');
+</script>
+   
 </head>
 <body>
   
